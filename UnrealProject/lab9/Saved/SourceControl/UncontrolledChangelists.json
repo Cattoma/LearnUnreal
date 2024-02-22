@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/CAMT/Documents/Unreal Projects/lab9/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/CAMT/Documents/Unreal Projects/lab9/Content/week10.umap",
+				"C:/Users/CAMT/Documents/Unreal Projects/lab9/Content/blueprint/Light_DoorFrame_Blueprint0_Blueprint.uasset",
+				"C:/Users/CAMT/Documents/Unreal Projects/lab9/Content/blueprint/pointlight_door_BP.uasset",
+				"C:/Users/CAMT/Documents/Unreal Projects/lab9/Content/week10-1.umap",
+				"C:/Users/CAMT/Documents/Unreal Projects/lab9/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/CAMT/Documents/Unreal Projects/lab9/Content/blueprint/LetpDoor_BP.uasset",
+				"C:/Users/CAMT/Documents/Unreal Projects/lab9/Content/blueprint/SM_Statue_Blueprint.uasset",
+				"C:/Users/CAMT/Documents/Unreal Projects/lab9/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/CAMT/Documents/Unreal Projects/lab9/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/CAMT/Documents/Unreal Projects/lab9/Content/Level/week_11.umap",
+				"C:/Users/CAMT/Documents/Unreal Projects/lab9/Content/Level/spawn_BP.uasset",
+				"C:/Users/CAMT/Documents/Unreal Projects/lab9/Content/Level/week11.umap",
+				"C:/Users/CAMT/Documents/Unreal Projects/lab9/Content/blueprint/spawn_BP.uasset",
+				"C:/Users/CAMT/Documents/Unreal Projects/lab9/Content/blueprint/MyBullet_BP.uasset"
+			]
+		}
+	]
+}
